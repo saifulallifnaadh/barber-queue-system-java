@@ -1,0 +1,33 @@
+==================================================
+           AHMAD'S BARBER SHOP
+              No. 123, Jalan Raya
+                 Kuala Lumpur
+              Tel: 03-1234-5678
+==================================================
+Receipt ID: REC1900
+Date: 16-03-2026 02:09:40
+Queue Number: 1900
+--------------------------------------------------
+Customer: Saiful
+Customer ID: CUST001
+Phone: 0135623681
+Email: saifulallif)6@gmail,com
+--------------------------------------------------
+Order ID: ORD1900
+
+SERVICES:
+Haircut + Wash - RM25.0
+
+PRODUCTS:
+--------------------------------------------------
+TOTAL AMOUNT: RM25.0
+Payment Method: Cash
+Instructions: Please pay cash at counter
+--------------------------------------------------
+         THANK YOU FOR YOUR VISIT!
+
+    PLEASE WAIT INSIDE THE SHOP. YOUR
+      NUMBER WILL BE CALLED SHORTLY.
+   IF NO RESPONSE AFTER 3 CALLS, YOUR
+         QUEUE NUMBER WILL BE CANCELLED
+==================================================

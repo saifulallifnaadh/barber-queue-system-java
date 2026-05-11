@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PaymentMethod
+comment1.params=paymentType
+comment1.target=PaymentMethod(java.lang.String)
+comment2.params=amount
+comment2.target=void\ processPayment(double)
+comment3.params=
+comment3.target=java.lang.String\ getPaymentType()
+comment4.params=
+comment4.target=java.lang.String\ getInstructions()
+numComments=5

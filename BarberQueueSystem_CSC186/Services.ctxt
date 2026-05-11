@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Services
+comment1.params=serviceId\ serviceName\ servicePrice\ duration
+comment1.target=Services(java.lang.String,\ java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=void\ displayService()
+comment3.params=
+comment3.target=java.lang.String\ getServiceId()
+comment4.params=
+comment4.target=java.lang.String\ getServiceName()
+comment5.params=
+comment5.target=double\ getServicePrice()
+numComments=6

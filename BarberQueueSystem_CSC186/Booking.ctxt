@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=bookingId\ customer\ service\ queueNumber
+comment1.target=Booking(java.lang.String,\ Customer,\ Services,\ int)
+comment2.params=
+comment2.target=void\ displayBooking()
+comment3.params=
+comment3.target=java.lang.String\ getBookingId()
+comment4.params=
+comment4.target=Customer\ getCustomer()
+comment5.params=
+comment5.target=int\ getQueueNumber()
+numComments=6

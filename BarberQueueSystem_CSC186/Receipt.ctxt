@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Receipt
+comment1.params=
+comment1.target=void\ printReceipt()
+comment2.params=
+comment2.target=void\ saveReceiptToFile()
+numComments=3
