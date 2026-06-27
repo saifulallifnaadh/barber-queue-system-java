@@ -10,7 +10,6 @@ A Java-based barbershop queue management system developed for an Object-Oriented
 - Queue number generation
 - Service selection
 - Price calculation
-- Membership discounts
 - Receipt printing
 - Estimated waiting time
 
